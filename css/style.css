@@ -211,7 +211,7 @@ header label {
     }
 
     .card-projects {
-        margin: 0 10px 0 10px;
+        margin: 0 5px 0 5px;
         height: 100px;
     }
 
@@ -276,6 +276,10 @@ header label {
         text-align: center;
     }
 
+    .projects {
+        margin-top: 300px;
+    }
+
 }
 
 @media (max-width:450px) {
@@ -293,7 +297,9 @@ header label {
         margin: 1rem 0;
     }
 
-
+    .projects {
+        margin-top: 450px;
+    }
 
 }
 
